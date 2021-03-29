@@ -2,7 +2,8 @@
 - 👀 I’m interested in ...Machine learning and devops 
 - 🌱 I’m currently learning ...AWS, ML,OPENCV,ANSIBLE,DOCKER,DSA,HADOOP
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...YOU can connect me on linkedin
+- 📫 How to reach me ...YOU can connect me on linkedin(sahid-khan)
+ or email:-sahidmatrix00@gmail.com
 
 <!---
 sahid1486/sahid1486 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
